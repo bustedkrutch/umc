@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Messages" section_id="194f7fef4f312300ac48704ca310c763" sys_domain="global" table="x_292064_umc_messages" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>message_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:45:35</sys_created_on>
+            <sys_id>8a25acf34fb12300ac48704ca310c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Messages" display_value="Messages" name="x_292064_umc_messages" sys_domain="global" view="Default view">194f7fef4f312300ac48704ca310c763</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:45:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>secondary_message_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:45:35</sys_created_on>
+            <sys_id>0e25acf34fb12300ac48704ca310c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Messages" display_value="Messages" name="x_292064_umc_messages" sys_domain="global" view="Default view">194f7fef4f312300ac48704ca310c763</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:45:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_message_tx</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:45:35</sys_created_on>
+            <sys_id>8e25acf34fb12300ac48704ca310c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Messages" display_value="Messages" name="x_292064_umc_messages" sys_domain="global" view="Default view">194f7fef4f312300ac48704ca310c763</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:45:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution_tx</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:45:35</sys_created_on>
+            <sys_id>0225acf34fb12300ac48704ca310c767</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Messages" display_value="Messages" name="x_292064_umc_messages" sys_domain="global" view="Default view">194f7fef4f312300ac48704ca310c763</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:45:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>resolution_owner</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:45:35</sys_created_on>
+            <sys_id>8225acf34fb12300ac48704ca310c767</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Messages" display_value="Messages" name="x_292064_umc_messages" sys_domain="global" view="Default view">194f7fef4f312300ac48704ca310c763</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:45:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>servicenow_incident_id</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:45:35</sys_created_on>
+            <sys_id>0625acf34fb12300ac48704ca310c767</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Messages" display_value="Messages" name="x_292064_umc_messages" sys_domain="global" view="Default view">194f7fef4f312300ac48704ca310c763</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:45:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Messages</caption>
+            <header>false</header>
+            <name>x_292064_umc_messages</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 10:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>194f7fef4f312300ac48704ca310c763</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Messages</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UMC" source="x_292064_umc">bbc7b7e74f312300ac48704ca310c73d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UMC">bbc7b7e74f312300ac48704ca310c73d</sys_scope>
+            <sys_update_name>sys_ui_section_194f7fef4f312300ac48704ca310c763</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 10:00:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

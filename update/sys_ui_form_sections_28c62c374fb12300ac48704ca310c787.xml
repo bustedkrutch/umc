@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="28c62c374fb12300ac48704ca310c787" sys_domain="global" table="x_292064_umc_messages" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:52:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68c62c374fb12300ac48704ca310c789</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_292064_umc_messages" name="x_292064_umc_messages" sys_domain="global" view="acc62c374fb12300ac48704ca310c782">28c62c374fb12300ac48704ca310c787</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_292064_umc_messages" sys_domain="global" view="acc62c374fb12300ac48704ca310c782">60c62c374fb12300ac48704ca310c786</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:52:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:52:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24c62c374fb12300ac48704ca310c78a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_292064_umc_messages" name="x_292064_umc_messages" sys_domain="global" view="acc62c374fb12300ac48704ca310c782">28c62c374fb12300ac48704ca310c787</sys_ui_form>
+            <sys_ui_section caption="Messages" display_value="Messages" name="x_292064_umc_messages" sys_domain="global" view="acc62c374fb12300ac48704ca310c782">2cc62c374fb12300ac48704ca310c786</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:52:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_292064_umc_messages</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-22 12:52:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28c62c374fb12300ac48704ca310c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_292064_umc_messages</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UMC" source="x_292064_umc">bbc7b7e74f312300ac48704ca310c73d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UMC">bbc7b7e74f312300ac48704ca310c73d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_28c62c374fb12300ac48704ca310c787</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-22 12:52:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Friendly" name="Friendly">acc62c374fb12300ac48704ca310c782</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
